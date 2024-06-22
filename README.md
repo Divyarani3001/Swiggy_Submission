@@ -13,7 +13,7 @@ Magical Arena is a simple Java-based game where two players fight until one of t
 
 1. *Clone the repository or download the zip file:*
    ```bash
-   git clone https://github.com/your-repository/magical-arena.git
+   git clone https://github.com/Divyarani3001/Swiggy_Submission/tree/main
    cd magical-arena
    javac Player.java MagicalArena.java Main.java
    java Main
